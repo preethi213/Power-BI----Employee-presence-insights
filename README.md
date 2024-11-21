@@ -20,7 +20,7 @@ Data Source: Employee attendance data from April to June 2022.
 ETL Process: Data preparation using Power Query to ensure accuracy and consistency.
 
 🚀 How to Use
-Open the Power BI Dashboard Link.
+Open the Power BI Dashboard Link. https://app.powerbi.com/reportEmbed?reportId=1392d902-1ca3-4ee1-868a-0cd883012fd7&autoAuth=true&ctid=474565c1-bca4-4295-a2f5-b0c7dbf2591c
 Use the filters to select specific months or focus on a date range.
 Analyze the visuals for insights into employee attendance, remote work, and sick leave patterns.
 Hover over charts to see additional data points and trends.
